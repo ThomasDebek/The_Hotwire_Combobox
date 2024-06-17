@@ -73,3 +73,7 @@ group :test do
   gem "selenium-webdriver"
 
 end
+
+
+gem "hotwire_combobox", "~> 0.3.1"
+gem "faker", "~> 3.4"
